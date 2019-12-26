@@ -21,7 +21,7 @@ int main() {
 		/**
 		 * display of numbers which are calculated
 		 */
-		cout<<"the diff of two  numbers is"<<endl;
+		cout<<"the diff of two  numbers is"<<diff<<endl;
 		cout<<diff;
 	return 0;
 }
