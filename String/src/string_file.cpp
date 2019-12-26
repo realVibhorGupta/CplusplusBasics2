@@ -14,13 +14,16 @@ int main()
 {
 	string a="vibhor1";
 	string b="gupta";
-	string c="vibhor gupta";
+	string c="vibhorgupta";
 	int d=23;
 	cout<<a;
 	if(isalnum(d))
 	{
 		cout<<"true";
-	}
+	}else
+    {
+        
+        cout<<"false";
+    }
+    
 }
-
-
